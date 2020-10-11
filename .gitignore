@@ -57,9 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
-# Ignore built ts files
-dist/**/*
-
 # Temp files
 temp
 
